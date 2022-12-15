@@ -27,7 +27,7 @@
 
 ```bash
 # clone NlpKGE   
-git clone https://github.com/heng840/NlpKGE
+git clone https://github.com/heng840/NlpKGE-master
 
 # install NlpKGE   
 cd nlpkge
