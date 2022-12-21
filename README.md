@@ -34,11 +34,6 @@ cd nlpkge
 pip install -e .   
 pip install -r requirements.txt
 ```
-### Install from pip
-
-```bash
-pip install nlpkge
-```
 
 ## Quick Start
 
